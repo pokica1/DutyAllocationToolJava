@@ -10,7 +10,7 @@ In Apache NetBeans IDE, Run the project and select the main.java
 
 :heavy_plus_sign: Add user, task or subtask\
 :open_file_folder: Load in a CSV file\
-:heavy_minus_sign: Delete a user, task or subtask\
-:heavy_plus_sign: Allocate a task to a user\
-:heavy_plus_sign: Allocate a subtask to a task
+:wastebasket: Delete a user, task or subtask\
+:link: Allocate a task to a user\
+:link: Allocate a subtask to a task\
 :floppy_disk: Save a user, task or subtask
